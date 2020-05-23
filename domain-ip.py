@@ -1,4 +1,5 @@
 import socket
+import sys
 
 if len(sys.argv) == 1:
     domainname = int(sys.argv[1])
